@@ -10,7 +10,20 @@
 - ⚡ Fun fact: ... :man_technologist:
    	
   
-  
+ 
+#### Bootcamp student in Gijon 
+![Bootcamp student in Gijon ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I like a lot of to become a software engineering
+
+Skills: I will be learning from Bootcamp
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 
