@@ -15,6 +15,13 @@ Skills: I will be learn form bootcamp
 - 📫 How to reach me: This page  
 - 😄 Pronouns: Mr.coder 
 - ⚡ Fun fact: Sometimes I exercise 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/nomid03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nomid03" height="30" width="40" /></a>
+<a href="https://dev.to/nomid03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nomid03" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nomid03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nomid03" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/nomid03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nomid03" height="30" width="40" /></a>
+</p>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nomid03)  
