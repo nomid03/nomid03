@@ -2,7 +2,7 @@
 
 ###   **Hello world!  Iam Nematullah Omid**(*Mr.coder* :computer:)👋 :sunglasses:
 #### Bootcamp student in Gijon 
-![Bootcamp student in Gijon ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Bootcamp student in Gijon ](https://ibb.co/9hqJqZD)
 
 I like a lot of to become a software engineering
 
