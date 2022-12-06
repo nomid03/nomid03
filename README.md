@@ -3,9 +3,10 @@
 ###   **Hello world!  Iam Nematullah Omid**(*Mr.coder* :computer:)👋 :sunglasses:
 #### Bootcamp student in Gijon 
 
-(<img src="https://i.ibb.co/f9CbCDg/Nematullah-Omid.png" alt="Nematullah-Omid" >)
-![Bootcamp student in Gijon ]
 
+<img src="https://i.ibb.co/f9CbCDg/Nematullah-Omid.png" alt="Nematullah-Omid" border="0">
+
+I am nematullah Omid, a student at Factoría F5 Bootcamp in Gijon Spain.
 I like a lot of to become a software engineering
 
 Skills: I will be learn form bootcamp
