@@ -3,7 +3,7 @@
 ###   **Hello world!  Iam Nematullah Omid**(*Mr.coder* :computer:)👋 :sunglasses:
 #### Bootcamp student in Gijon 
 
-(<img src="https://i.ibb.co/f9CbCDg/Nematullah-Omid.png" alt="Nematullah-Omid" border="0">)
+(<img src="https://i.ibb.co/f9CbCDg/Nematullah-Omid.png" alt="Nematullah-Omid" >)
 ![Bootcamp student in Gijon ]
 
 I like a lot of to become a software engineering
