@@ -1,18 +1,19 @@
 
 
-###   **Hello world!  Iam Nematullah Omid**(*Mr.coder* :computer:)👋 :sunglasses:
-#### Bootcamp student in Gijon 👨‍🎓 🖥️   💣   ⌨️ 🧙‍♂️
+###   **Hello world!
+Iam Nematullah Omid**(*Mr.coder* :computer:)👋 :sunglasses:
+####  👨‍🎓 🖥️   💣   ⌨️ 🧙‍♂️
 
 
 <img src="https://i.ibb.co/f9CbCDg/Nematullah-Omid.png" alt="Nematullah-Omid" border="0">
 
-### I am nematullah Omid, a student at Factoría F5 Bootcamp in Gijon Spain. 🇪🇸 ❤️ 
+### I am nematullah Omid, ❤️ 
 I like a lot of to become a software engineering 🛰️
 
-## Skills: I will be learn form bootcamp ⌨️ 😘
+## Skills: I will be learn ⌨️ 😘
 
 - 🔭 I’m currently working on this page.  ✍️
-- 🌱 I’m currently learning .Bootcamp Fullstack F5 🥇
+- 🌱 I’m currently learning 5 🥇
 - 🤔 I’m looking for help with Web Design 🔭
 - 💬 Ask me about Any thing you want  🙋‍♂️ ❓
 - 📫 How to reach me 📲  
