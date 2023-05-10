@@ -1,52 +1,40 @@
 
 
-###   **Hello world!
-### **Iam Nematullah Omid**(*Mr.coder* :computer:)👋 :sunglasses:
-####  👨‍🎓 🖥️   💣   ⌨️ 🧙‍♂️
+# ***<ins><div align="center">Hello, World😎</div></ins>***  
+# ***<div align="center"> I am Nematullah Omid✌️💬</div>***  
 
 
-<img src="https://i.ibb.co/f9CbCDg/Nematullah-Omid.png" alt="Nematullah-Omid" border="0">
-
-### I am nematullah Omid, ❤️ 
-I like a lot of to become a software engineering 🛰️
-
-## Skills: I will be learn ⌨️ 😘
-
-- 🔭 I’m currently working on this page.  ✍️
-- 🌱 I’m currently learning 5 🥇
-- 🤔 I’m looking for help with Web Design 🔭
-- 💬 Ask me about Any thing you want  🙋‍♂️ ❓
-- 📫 How to reach me 📲  
-- 😄 Pronouns: Mr.coder 👨‍💻
-- ⚡ Fun fact: Sometimes I exercise ⏲️
-## Connect with me  🤙 📢
-<p align="left">
-<a href="https://codepen.io/nomid03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nomid03" height="30" width="40" /></a>
-<a href="https://dev.to/nomid03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nomid03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nomid03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nomid03" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nomid03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nomid03" height="30" width="40" /></a>
- 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nomid03/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nomid03) 
+![for me gif](https://github.com/nomid03/nomid03/assets/98613991/c1ebd114-3d48-4d31-a511-24790a0a8f67)
 
 
-</p>
- 
+*********
+# 💫 About Me:
+🔭 I’m currently working on my own   my own career as a  software developer <br>👯 I’m looking to collaborate on software developing<br>🤝 I’m looking for help with  software developing <br>🌱 I’m currently learning. ****<br>💬 Ask me about  *** -_-software development and cybersecurity <br>⚡ Fun fact  _-_*  coffee 
 
 
- 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nomid03) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nomid03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nomid03) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/nomid03) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nomid03) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Omidz95) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/nomid03) 
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nomid03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nomid03&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nomid03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nomid03)](https://github.com/ryo-ma/github-profile-trophy)
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=Omidz95)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomid03)](https://github.com/anuraghazra/github-readme-stats)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nomid03&show_icons=true&count_private=true)  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nomid03&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nomid03)  
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-![GitHub metrics](https://metrics.lecoq.io/nomid03)  
+---
+[![](https://visitcount.itsvg.in/api?id=nomid03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nomid03)  
-
-![Profile views](https://gpvc.arturio.dev/nomid03)  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
